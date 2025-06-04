@@ -29,7 +29,7 @@ gem 'rack', '1.6.4'
 group :test do
   gem 'rake'
   gem 'database_cleaner', '~> 1.5.1'
-  gem 'factory_girl',     '~> 4.7.0'
+  gem 'factory_girl', '~> 4.8.0'
   gem 'mocha',            '~> 0.10.0'
   gem 'rspec'
   gem 'webmock'
